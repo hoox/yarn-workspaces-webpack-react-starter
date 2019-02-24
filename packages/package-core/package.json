@@ -1,0 +1,14 @@
+{
+  "name": "package-core",
+  "description": "Core Package",
+  "version": "1.0.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hoox/yarn-workspaces-webpack-react-starter.git",
+    "directory": "packages/package-core"
+  },
+  "author": "hoox",
+  "license": "MIT",
+  "main": "./src/index.js"
+}
